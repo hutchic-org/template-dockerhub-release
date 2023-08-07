@@ -1,3 +1,3 @@
-FROM ubuntu:devel@sha256:23e2d6c4de2adfcbd631be39296d8eb6968e2bfbf0df86db88147f2814086bd6
+FROM ubuntu:devel@sha256:2c12b887bd41265d2a3a5e993060c9da28dfc7eaab138c908aec196e087a3c86
 
 RUN echo 'hi'
